@@ -37,7 +37,14 @@ enter your number2: 5
      remainder = 5  
 choose an operation for calculations (ex:1): 1 
 Answer = 15
+
+---
+
  ```
+<div align="center">
+<img src="sssss.new.png" width="600" alt="calculator output">
+</div>
+
 
 ---
 
