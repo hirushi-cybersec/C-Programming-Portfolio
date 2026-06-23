@@ -24,6 +24,7 @@ Part of my *C Programming Portfolio* - learning from zero 🚀
 gcc todo.c -o todo
 ./todo
 📸 Demo
+![ToDoList Output] (untitled.png)
 Hello TODo list
     ADD = 1
     SHOW = 2  
