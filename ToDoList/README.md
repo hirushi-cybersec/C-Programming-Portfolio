@@ -23,8 +23,8 @@ Part of my *C Programming Portfolio* - learning from zero 🚀
 ```bash
 gcc todo.c -o todo
 ./todo
-📸 Demo
-![ToDoList Output] (untitled.png)
+### 📸 Demo
+![ToDoList Output] (Untitled.png)
 Hello TODo list
     ADD = 1
     SHOW = 2  
