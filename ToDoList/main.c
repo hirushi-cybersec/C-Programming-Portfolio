@@ -6,13 +6,12 @@ int taskcount=0;
 void delete(int tasknum)
 {
     int i;
-    tasknum = tasknum-1;
-    for(i=tasknum; i <taskcount -1; i++)
+    for(i=tasknum-1 ; i<taskcount-1; i++)
     {
         strcpy(tasks[i], tasks[i+1]);
     }
     taskcount--;
-    printf("Task deleted!\n");
+    printf("Task %d deleted!\n", tasknum);
 }
 int main()
 {
@@ -22,6 +21,7 @@ int main()
 
     char YesNo;
     int i;
+    int deletetask;
 
 
 
@@ -73,10 +73,10 @@ int main()
         else if (choice==3)
         {
             printf("Which tasks would you like to delete? ");
-            scanf("%d",&deletetask);
+            scanf(" %d",&deletetask);
             if(taskcount==0)
             {
-                printf("no task to delete\n");
+                printf("no tasks to delete!\n");
             }
             else
             {
