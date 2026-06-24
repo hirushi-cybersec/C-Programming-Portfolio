@@ -23,8 +23,7 @@ Part of my *C Programming Portfolio* - learning from zero 🚀
 ```bash
 gcc todo.c -o todo
 ./todo
-### 📸 Demo
-![ToDoList Output] (Untitled.png)
+
 Hello TODo list
     ADD = 1
     SHOW = 2  
@@ -34,7 +33,7 @@ Hello TODo list
 What is your choice? (ex-1): 1
 Task added: Study C pointers
 Total tasks = 1
----
+
 ```
 <div align="center">
 <img src="todolist.png" width="600" alt=" output">
