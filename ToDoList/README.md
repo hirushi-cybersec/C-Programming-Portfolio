@@ -35,6 +35,10 @@ What is your choice? (ex-1): 1
 Task added: Study C pointers
 Total tasks = 1
 ---
+```
+<div align="center">
+<img src="todolist.png" width="600" alt=" output">
+</div>
 
 🎯 Learning Goals
 This project helped me practice:
