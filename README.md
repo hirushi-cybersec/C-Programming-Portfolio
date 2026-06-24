@@ -17,7 +17,7 @@ C-Programming/
 
 ├── 01_SimpleCalculator.c
 
-├── 02_
+├── 02_ToDoList.c
 
 ├── 03_  
 
@@ -30,7 +30,7 @@ C-Programming/
 - [x] Pointers: & address-of, * value-at
 - [x] Functions & Recursion
 - [x] Strings & Character arrays
-- [ ] Structures & Unions
+- [x] Structures & Unions
 - [ ] File Handling
 
 
